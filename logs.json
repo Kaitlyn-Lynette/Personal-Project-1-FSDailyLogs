@@ -1,0 +1,4 @@
+{
+	"date": "2021-06-11T13:45:55.657Z",
+	"input": "Decided that fs read and write is more straight forward outside of React. Im decided for my daily logs I would write the data using FS and my goal is to read the data and display on the front-end. Today success would look like creating a JSON file using inquirer. "
+}
