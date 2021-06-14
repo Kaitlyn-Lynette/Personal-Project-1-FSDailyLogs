@@ -1,2 +1,7 @@
-[{"log number":null,"date":"2021-06-12T12:42:23.805Z","input":"Trying to append the JSON file. Created an empty array. "}]
-[{"log number":null,"date":"2021-06-12T12:42:23.805Z","input":"Trying to append the JSON file. Created an empty array. "},{"log number":2,"date":"2021-06-12T12:43:21.900Z","input":"Attempting to add another object. "}]
+[
+	{
+		"log number": 8,
+		"date": "2021-06-14T21:20:29.242Z",
+		"input": "Create a JSON with an array "
+	}
+]
