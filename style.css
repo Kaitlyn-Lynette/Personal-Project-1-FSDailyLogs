@@ -1,0 +1,14 @@
+.container {
+    font-family: 'Courier Prime', monospace;
+    margin: 100px auto;
+    padding: 5px;
+    max-width: 650px;
+}
+
+.name-section {
+    max-width: 350px;
+}
+
+.name {
+   color: #006994;
+}
