@@ -1,21 +1,17 @@
 [
-  [
-    [
-      {
-        "log number": 6,
-        "date": "2021-06-15T11:26:06.806Z",
-        "input": "First push the existing logs, prompt for answers, and push them and then write a new file. "
-      }
-    ],
-    {
-      "log number": 1,
-      "date": "2021-06-15T11:48:51.747Z",
-      "input": "Thank you for breaking the bread of your body. "
-    }
-  ],
   {
-    "log number": 7,
-    "date": "2021-06-15T11:49:36.700Z",
-    "input": "Keep swimming"
+    "log number": 1,
+    "date": "2021-06-15T12:17:46.260Z",
+    "input": "Lets see how it prints. "
+  },
+  {
+    "log number": 1,
+    "date": "2021-06-15T12:20:59.195Z",
+    "input": "You deserve the highest praise!"
+  },
+  {
+    "log number": 2,
+    "date": "2021-06-15T12:21:24.796Z",
+    "input": "All for your glory!"
   }
 ]
