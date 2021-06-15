@@ -1,9 +1,21 @@
 [
   [
+    [
+      {
+        "log number": 6,
+        "date": "2021-06-15T11:26:06.806Z",
+        "input": "First push the existing logs, prompt for answers, and push them and then write a new file. "
+      }
+    ],
     {
-      "log number": 8,
-      "date": "2021-06-14T21:20:29.242Z",
-      "input": "Create a JSON with an array "
+      "log number": 1,
+      "date": "2021-06-15T11:48:51.747Z",
+      "input": "Thank you for breaking the bread of your body. "
     }
-  ]
+  ],
+  {
+    "log number": 7,
+    "date": "2021-06-15T11:49:36.700Z",
+    "input": "Keep swimming"
+  }
 ]
