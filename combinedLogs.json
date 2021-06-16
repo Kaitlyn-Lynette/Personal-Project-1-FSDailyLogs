@@ -58,5 +58,30 @@
     "number": 12,
     "date": "2021-06-16T13:11:25.455Z",
     "input": "Keep moving forward, you'll figure it out"
+  },
+  {
+    "number": 13,
+    "date": "2021-06-16T13:27:25.321Z",
+    "input": "Does adding the jquery script change anything?"
+  },
+  {
+    "number": 14,
+    "date": "2021-06-16T13:32:45.615Z",
+    "input": "Dollar signs caused an issue"
+  },
+  {
+    "number": 15,
+    "date": "2021-06-16T13:46:31.699Z",
+    "input": "Wont be afraid"
+  },
+  {
+    "number": 16,
+    "date": "2021-06-16T13:48:34.067Z",
+    "input": "He's always good"
+  },
+  {
+    "number": 17,
+    "date": "2021-06-16T14:14:23.557Z",
+    "input": "Using an AJAX call to pull in the JSON data in the HTML file. "
   }
 ]
