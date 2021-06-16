@@ -13,5 +13,50 @@
     "log number": 2,
     "date": "2021-06-15T12:21:24.796Z",
     "input": "All for your glory!"
+  },
+  {
+    "number": 4,
+    "date": "2021-06-15T12:51:42.657Z",
+    "input": "I am free"
+  },
+  {
+    "number": 5,
+    "date": "2021-06-15T12:54:26.114Z",
+    "input": "If he did it for me, he can do for you!"
+  },
+  {
+    "number": 6,
+    "date": "2021-06-15T12:55:58.926Z",
+    "input": "I thank God"
+  },
+  {
+    "number": null,
+    "date": "2021-06-15T12:58:06.907Z",
+    "input": "Fire and Wind"
+  },
+  {
+    "number": 7,
+    "date": "2021-06-15T12:59:20.173Z",
+    "input": "All we want"
+  },
+  {
+    "number": 9,
+    "date": "2021-06-15T13:03:41.951Z",
+    "input": "Lets see if it prints"
+  },
+  {
+    "number": 10,
+    "date": "2021-06-15T21:04:57.128Z",
+    "input": "trying to generate HTML"
+  },
+  {
+    "number": 11,
+    "date": "2021-06-15T21:05:37.463Z",
+    "input": "Tring to generate HTML"
+  },
+  {
+    "number": 12,
+    "date": "2021-06-16T13:11:25.455Z",
+    "input": "Keep moving forward, you'll figure it out"
   }
 ]
