@@ -14,12 +14,12 @@ place.
 
 # How it was built
 
-Inquirer NPM - Prompt user with questions using command line
-fs.readFile - Reads the .JSON before writing with new data
-fs.writeFile - Write the .SON with the existing data captured from readFile and adds new data
-JSON.parse - Parses data once the .JSON file is read with existing data
-JSON.stringify - After new data is captured and added to the JSON
-ASYNC/AWAIT - To control the order of events firing, desired action
+Inquirer NPM - Prompt user with questions using command line  
+fs.readFile - Reads the .JSON before writing with new data  
+fs.writeFile - Write the .SON with the existing data captured from readFile and adds new data  
+JSON.parse - Parses data once the .JSON file is read with existing data  
+JSON.stringify - After new data is captured and added to the JSON  
+ASYNC/AWAIT - To control the order of events firing, desired action  
   * Run index.js
   * Prompt User
   * Read existing JSON file 
