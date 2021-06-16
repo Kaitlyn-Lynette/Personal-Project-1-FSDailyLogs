@@ -30,3 +30,4 @@ HTML
 
 JQuery to use AJAX to retrieve the JSON file so that we could loop through and generate the HTML
 
+https://kaitlyn-lynette.github.io/FSDailyLogs/
