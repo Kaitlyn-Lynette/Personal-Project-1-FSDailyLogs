@@ -12,3 +12,7 @@
 .name {
    color: #006994;
 }
+
+#logs-section {
+    font-size: '8px';
+}   
