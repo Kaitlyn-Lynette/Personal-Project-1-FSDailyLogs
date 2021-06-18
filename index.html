@@ -22,13 +22,13 @@
         <script type="text/javascript">
             $.getJSON("./combinedLogs.json", function (logs){
         //This of jQuery selects the div with the matching id
-               var logsDiv = $("#logs-section");
+               const logsDiv = $("#logs-section");
         //For loop then loops through the logs 
-                for(var i=0; i<logs.length;i++){
+                for(let i=0; i<logs.length;i++){
         //It then create a new div for each new log
-                var date = logs[i].date
-                var input = logs[i].input
-                var newLogDiv= $("<div>" + date + "<br>" + input + "</div>" +"<br>" )
+                let date = logs[i].date
+                let input = logs[i].input
+                let newLogDiv= $("<div>" + date + "<br>" + input + "</div>" +"<br>" )
         //It then add this new div to the logs-section div
                 logsDiv.append(newLogDiv)
                 }
