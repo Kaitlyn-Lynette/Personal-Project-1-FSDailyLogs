@@ -18,5 +18,10 @@
     "number": 4,
     "date": "2021-06-22T19:30:51.076Z",
     "input": "Spent the morning studying insertion and selection sort. As well as coding the new project Work Time Tracker. "
+  },
+  {
+    "number": 5,
+    "date": "2021-06-24T01:41:16.802Z",
+    "input": "Today I worked on Coding Work Time Tracker to practice my JQuery skills and I attende a L.A.B meeting and covered NodeJS: Express Authentication Middleware"
   }
 ]
