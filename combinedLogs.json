@@ -23,5 +23,15 @@
     "number": 5,
     "date": "2021-06-24T01:41:16.802Z",
     "input": "Today I worked on Coding Work Time Tracker to practice my JQuery skills and I attende a L.A.B meeting and covered NodeJS: Express Authentication Middleware"
+  },
+  {
+    "number": 6,
+    "date": "2021-06-25T14:13:31.795Z",
+    "input": "Reviewing steps to setup a SQL database"
+  },
+  {
+    "number": 7,
+    "date": "2021-06-28T21:07:19.005Z",
+    "input": "Spent the day reviewing Express, SQL, and Sequelize"
   }
 ]
