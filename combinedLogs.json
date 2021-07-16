@@ -33,5 +33,10 @@
     "number": 7,
     "date": "2021-06-28T21:07:19.005Z",
     "input": "Spent the day reviewing Express, SQL, and Sequelize"
+  },
+  {
+    "number": 8,
+    "date": "2021-07-16T00:39:55.861Z",
+    "input": "Practiced some algos."
   }
 ]
